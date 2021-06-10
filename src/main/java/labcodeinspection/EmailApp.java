@@ -5,6 +5,14 @@ import java.util.Scanner;
 
 public class EmailApp {
 	/**
+	* 
+	*Constructor 
+	* @author 
+	*/
+	 private EmailApp() {
+	        throw new UnsupportedOperationException();
+	    }
+	/**
 	 * Comment.
 	 * @param args
 	 */
@@ -27,4 +35,5 @@ public class EmailApp {
 		email.generateEmail();
 		email.showInfo();
 	}
+	
 }
