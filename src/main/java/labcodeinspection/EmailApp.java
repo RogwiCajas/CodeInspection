@@ -2,7 +2,7 @@ package labcodeinspection;
 
 import java.util.Scanner;
 
-@SuppressWarnings("PMD.UseUtilityClass")
+
 public class EmailApp {
 	/**
 	 * Comment.

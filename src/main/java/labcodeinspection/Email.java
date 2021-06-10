@@ -4,7 +4,7 @@ import java.util.Locale;
 
 public class Email {
 
-	private String m_firstName; //NOPMD This field will be manipulated later.
+	private String m_firstName; 
 	private final String m_lastName;
 	private String password;
 	private String department;
